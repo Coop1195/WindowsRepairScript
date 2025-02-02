@@ -12,7 +12,7 @@ Windows-OS-Repair is a Windows script that runs SFC, DISM, and Check Disk all th
 6. [Acknowledgements](#acknowledgements)
 
 ## Installation
-Follow these steps to set up and use Windows-OS-Repair.
+Follow these steps to set up and use WindowsRepairScript.
 
 ### Prerequisites
 - Administrator privileges
@@ -20,11 +20,10 @@ Follow these steps to set up and use Windows-OS-Repair.
 
 ### Step-by-Step Installation
 1. **Download**: [Latest Release](https://github.com/your-username/windows-os-repair/releases/latest)
-2. **Run as Administrator**: Ensure you run the program as an administrator.
 3. **Bypass SmartScreen**: Click "Run anyways" on Microsoft SmartScreen if prompted.
 
 ## Usage
-To use the Windows-OS-Repair program, run the executable on a windows device:
+To use the WindowsRepairScript program, run the executable on a windows device:
 
 ## Features
 - Provides an interface to run common commands to fix issues on windows systems, including CHKDSK, SFC, and DISM.
