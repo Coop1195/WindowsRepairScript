@@ -45,4 +45,4 @@ We welcome contributions! To contribute, follow these steps:
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
-Thank you to all contributors and users who have supported this project. Your feedback and suggestions help make Windows-OS-Repair better with each release.
+Thank you for the continued support and feedback. I hope these updates enhance the experience with my program! Thank you to all contributors who have supported this project!
