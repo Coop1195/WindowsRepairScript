@@ -27,9 +27,7 @@ Follow these steps to set up and use Windows-OS-Repair.
 To use the Windows-OS-Repair program, run the executable on a windows device:
 
 ## Features
-- **No More "Run as Administrator"**: Users no longer need to right-click and select "run-as administrator."
-- **C# Code Base**: The entire code base has been migrated to C# for improved performance and maintainability.
-- **Enhanced Menu Feedback**: Menu selections now provide feedback and updates to users for a more interactive experience.
+- Provides an interface to run common commands to fix issues on windows systems, including CHKDSK, SFC, and DISM.
 
 ## Contributing
 We welcome contributions! To contribute, follow these steps:
