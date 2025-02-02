@@ -1,4 +1,4 @@
-# Windows-OS-Repair
+# WindowsRepairScript
 
 ## Introduction
 Windows-OS-Repair is a Windows script that runs SFC, DISM, and Check Disk all through an executable program with a command line menu. It simplifies system maintenance and repair tasks, helping users keep their Windows operating system in top condition.
