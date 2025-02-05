@@ -19,7 +19,7 @@ Follow these steps to set up and use WindowsRepairScript.
 - Windows operating system
 
 ### Step-by-Step Installation
-1. **Download**: [Latest Release](https://github.com/your-username/windows-os-repair/releases/latest)
+1. **Download**: [Latest Release](https://github.com/Coop1195/windows-os-repair/releases/latest)
 3. **Bypass SmartScreen**: Click "Run anyways" on Microsoft SmartScreen if prompted.
 
 ## Usage
