@@ -28,7 +28,7 @@ Follow these steps to set up and use WindowsRepairScript.
 To use the WindowsRepairScript program, run the executable on a windows device:
 
 ## Features
-- Provides an interface to run common commands to fix issues on windows systems, including CHKDSK, SFC, and DISM.
+- Provides an interface to run common commands to fix issues on windows systems, including CHKDSK, SFC, and DISM, and "netstat -r".
 
 ## Contributing
 We welcome contributions! To contribute, follow these steps:
