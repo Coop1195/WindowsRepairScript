@@ -1,6 +1,6 @@
 # WindowsOSRepairScript
 
-**NOTE**: Program may be detected as un-usual or suspicious, please ignore and select to save and run anyway. [VirusTotal Results](https://www.virustotal.com/gui/file/70da9e9f0921add99386bc0ac9de943cac9477b8c5b08773657090389bf576be)
+**NOTE**: Program may be detected as un-usual or suspicious, please ignore and select to save and run anyway. [VirusTotal Results](https://www.virustotal.com/gui/file-analysis/MDIxNDNkZWEyOWMzZDIyOTMxODc1NmM2YzcxYWMwMTA6MTc0MTM4MDY4OA==)
 
 ## Introduction
 Windows-OS-Repair is a Windows script that runs SFC, DISM, and Check Disk all through an executable program with a command line menu. It simplifies system maintenance and repair tasks, helping users keep their Windows operating system in top condition.
